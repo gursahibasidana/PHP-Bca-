@@ -7,6 +7,6 @@
     echo "integer is: $x \n";  
     echo "float is: $y\n";  
     
-    echo "\nCode by Gursahiba Kaur Sidana - 2220100267\n";
+    echo "\nCode by Gursahiba Kaur Sidana";
     
 ?>
